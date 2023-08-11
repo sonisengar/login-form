@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.loginform{
+    height: 300px;
+    width: 28%;
+    border: 1px solid blue;
+    margin: 10%;
+    margin-left: 40%;
+    background-color: aqua;
+}
+.loginform h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 30px;
+    color: indigo;
+}
+#icon{
+    display: inline-block;
+    padding: 20px 20px 0 10px;
+}
+#name{
+    padding: 3px;
+    border: none;
+    border-radius: 8px;
+    background-color: burlywood;
+    color: springgreen;
+}
+button{
+   margin-top: 50px;
+   margin-left: 43%;
+   font-size: 15px;
+   padding: 5px;
+}
